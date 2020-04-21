@@ -1,1 +1,1 @@
-# Udacity-Full-Stack-Web-Developer-Nanodegree
+# Udacity Full Stack Developer Nanodegree
