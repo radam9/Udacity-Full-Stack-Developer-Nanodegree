@@ -6,3 +6,6 @@ A repo containing the projects and exercises for the Udacity Full Stack Develope
     - Fyyur:
     - todoapp: exercise completed during the module.
 2. Module 2 - API Development and Documentation
+3. Module 3 - Identity and Access Management (Auth0 - JWT - Web Security)
+4. Module 4 - Server Deployment, Containerization and Testing (Docker - Kubernetes - AWS - Heroku)
+5. Capstone Project 
